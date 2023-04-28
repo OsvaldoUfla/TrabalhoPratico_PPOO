@@ -1,0 +1,1 @@
+Pasta banco é Utilizada para armazenar os arquivos do Banco de dados.
